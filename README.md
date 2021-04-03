@@ -5,3 +5,6 @@ This is an app UI i implemented.
 The design is called Wallie Digital Wallet and it was created by Happy Tri Milliarta at dribble. 
 
 Link to the design: https://dribbble.com/shots/9730914-Wallie-Digital-Wallet/attachments/1761262?mode=media
+clone the repo and type: npm install 
+After installation is completed, Type: expo start 
+Done.
